@@ -1,0 +1,56 @@
+body{
+  background-color: rgb(191, 201, 201);
+}
+.ok
+{
+  color: #ac5171;
+}
+
+ul {
+  
+  display: table;
+  margin: 0 auto;
+}
+#content a{
+  color: black;
+}
+
+a {
+  color: hotpink;
+  text-decoration: none;
+}
+
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(236, 16, 126);
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
+.info 
+{
+    color: rgb(22, 21, 21);
+}
+
+img
+{
+  height: 400px;
+  width: 100%;
+}
+
+.temp
+{
+    margin-top: 20px;
+}
