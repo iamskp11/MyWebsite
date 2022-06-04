@@ -6,6 +6,10 @@ body{
   color: #ac5171;
 }
 
+h1
+{
+  font-family: Verdana, sans-serif;
+}
 ul {
   
   display: table;
