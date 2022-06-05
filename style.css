@@ -93,9 +93,9 @@ img {
 }
 
 .name {
-  font-size: 24px;
+  font-size: 32px;
   font-weight: 600;
-
+  font-family: 'Eater';
   margin-top: 16px;
 }
 
@@ -107,12 +107,17 @@ img {
 #inside_card
 {
   font-size: 18px;
-  color: #7f8c9b;
+  color: #020c17;
   line-height: 150%;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Andika New Basic';font-size: 22px;
 }
 
 #img_inside_card
 {
   width: 40%;
+}
+
+#inside_card:hover
+{
+  color: #3c3e41;
 }
